@@ -2,7 +2,7 @@
 
 ## A Conexão Corpo-Mente: Consequências Físicas e Psicológicas da Repressão Sexual
 
-A base do pensamento de Freud e Reich é que a energia sexual (libido) é uma força vital primária. Negá-la, reprimi-la ou distorcê-la através da culpa não a faz desaparecer. Como dizia Freud, "emoções não expressas nunca morrem. Elas são enterradas vivas e saem mais tarde das piores formas".
+A base do pensamento de Freud e Reich é que a energia sexual (libido) é uma força vital primária. Negá-la, reprimi-la ou distorcê-la através da culpa não a faz desaparecer. Como diz a frase atribuída a Freud, "emoções não expressas nunca morrem. Elas são enterradas vivas e saem mais tarde das piores formas".
 
 ### 1. A Visão de Freud: A Origem de Tudo São Fantasias Sexuais Reprimidas
 
@@ -46,6 +46,6 @@ Embora a psiquiatria moderna tenha uma visão multifatorial (genética, neuroqu�
 
   - **Transtorno de Personalidade Borderline (BPD):** Caracterizado pela instabilidade emocional e relacional, o BPD pode ser visto, sob essa ótica, como o resultado de uma base interna caótica. A pessoa não aprendeu a integrar *seus impulsos sexuais naturais* com um senso de identidade estável, pois esses impulsos foram ensinados como "maus" e "destrutivos". O resultado é uma oscilação **extrema** entre a idealização e a desvalorização de si e dos outros.
 
-  - **TDAH (Déficit de Atenção e Hiperatividade):** Embora hoje seja entendido primariamente como uma condição neurobiológica, uma leitura psicodinâmica pode mostra que, na maioria dos casos, a desatenção e a hiperatividade são defesas contra a ansiedade gerada por conflitos internos reprimidos. É mais fácil para a mente se distrair com estímulos externos do que enfrentar a turbulência interna dos desejos reprimidos.
+  - **TDAH (Déficit de Atenção e Hiperatividade):** Embora hoje seja entendido primariamente como uma condição neurobiológica, uma leitura psicodinâmica pode mostrar que, na maioria dos casos, a desatenção e a hiperatividade são defesas contra a ansiedade gerada por conflitos internos reprimidos. É mais fácil para a mente se distrair com estímulos externos do que enfrentar a turbulência interna dos desejos reprimidos.
 
 A estrutura de controle baseada na culpa sexual criou um legado de repressão que, para Freud e Reich, é a raiz de grande parte da infelicidade e da doença mental e física no mundo ocidental. A energia da vida, *quando chamada de pecado*, adoece.

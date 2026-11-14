@@ -72,17 +72,17 @@ O sistema como um todo — médico, político e social — se uniu para silencia
 
   - **Pós-2010:** Com a quebra das patentes e a popularização dos genéricos, o preço cai drasticamente. A linha de vendas (em unidades) dispara para a estratosfera e se torna uma das mais altas de toda a indústria farmacêutica.
 
-Ainda falando de estimulante sexual e trazendo dados apenas do brasil, as estimativas, cruzando dados médicos e laboratoriais, é de que ao menos 50% dos homens acima de 40 anos possuem queixas quando a potencia sexual. Como eu também tenho contato com médicos, os relatos que eles me passam são bem complicados.
+Ainda falando de estimulante sexual e trazendo dados apenas do Brasil, a Sociedade Brasileira de Urologia estima que cerca de 50% dos homens acima de 40 anos têm algum grau de disfunção erétil, algo em torno de 16 milhões de homens. Como eu também tenho contato com médicos, os relatos que eles me passam são bem complicados.
 
 ## O Brasil é um dos maiores mercados do mundo para esses medicamentos.
 
-  - **Tadalafila:** Após a quebra da patente, o Tadalafila se tornou um fenômeno de vendas. Dados da consultoria IQVIA, que audita o mercado farmacêutico, mostram que em 2023, foram vendidas mais de **160 milhões de unidades (comprimidos)** de Tadalafila no Brasil.
+  - **Tadalafila:** Em 2015 foram vendidas pouco mais de 3,2 milhões de unidades no Brasil. Em 2024 foram 64,7 milhões, quase vinte vezes mais. Segundo a Anvisa, as vendas saltaram de 21,4 milhões de caixas em 2020 para 47,2 milhões em 2023.
 
-  - **Sildenafila (Viagra e genéricos):** Somando-se a isso, a Sildenafila vendeu cerca de **85 milhões de unidades** no mesmo período.
+  - **Sildenafila (Viagra e genéricos):** Só em genéricos, foram 43,7 milhões de unidades em 2024.
 
-  - **Total:** Isso totaliza aproximadamente **245 milhões de comprimidos** vendidos em apenas um ano no Brasil.
+  - **Total:** Somando apenas os genéricos das duas substâncias, são mais de **105 milhões de caixas** vendidas em um único ano no Brasil, segundo o levantamento da IQVIA divulgado pela PróGenéricos. Em 2024 a tadalafila foi o quinto genérico mais vendido do país, à frente de remédios para pressão alta.
 
-*Mas porque justamente é o brasil um dos maiores mercados? Vamos novamente fazer uma análise psicanalítica e comportamental do que acontece por aqui:*
+*Mas porque justamente é o Brasil um dos maiores mercados? Vamos novamente fazer uma análise psicanalítica e comportamental do que acontece por aqui:*
 
 A causa raiz do alto consumo de estimulantes sexuais *não é a falta de desejo*, mas em uma libido bloqueada pela **culpa**. O Brasil, em particular, emerge como um estudo de caso proeminente, onde fatores históricos, religiosos e culturais convergem para criar um ambiente psicologicamente *hostil à expressão sexual saudável*. A seguir, uma análise de quatro eixos fundamentais que constroem essa arquitetura da culpa, agora regionalizada.
 
@@ -146,4 +146,4 @@ O homem que antes se ajoelhava no confessionário buscando alívio para a culpa,
 
 ![](../imagens/p3-grafico-consumo-medicamentos.png)
 
-*Para elucidar o impacto da repressão sexual nos problemas mentais, trago um gráfico onde mostra o aumento expressivo no consumo destes medicamentos no mundo(acima).*
+*Para elucidar o impacto da repressão sexual nos problemas mentais, trago um gráfico ilustrativo do crescimento do mercado mundial destes medicamentos (acima).*

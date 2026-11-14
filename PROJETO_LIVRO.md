@@ -11,7 +11,7 @@ Planejamento completo (Claude Docs): https://claude.ai/artifact/S2cyfJKmaDYVo3DN
 | Tema | Decisão |
 | --- | --- |
 | Autoria | Somente José Carlos Costa |
-| Título | **Em aberto.** Será decidido junto com a capa, em outro momento |
+| Título | **Te Ensinaram a Adoecer** (subtítulo a definir; sugestão: "Culpa, repressão e remédio: a história que ninguém te contou sobre a sua saúde") |
 | Formato | Somente eBook Kindle (Amazon KDP) |
 | ISBN, ficha catalográfica, registro | Não serão feitos (o Kindle não exige ISBN) |
 | Versão impressa | Não haverá |
@@ -23,6 +23,7 @@ Planejamento completo (Claude Docs): https://claude.ai/artifact/S2cyfJKmaDYVo3DN
 | Texto "Minha Jornada" (creditado ao Leandro) | Foi escrito pelo José. Vira prefácio "Um olhar de fora", como relato de um terceiro, **sem o nome do Leandro** |
 | Capítulo 1 | Passa a ser a jornada do próprio José (texto novo) |
 | Voz do livro | Tudo reescrito na voz do José (terapeuta); sai o texto genérico de roteiro |
+| Gráficos | Os gráficos ilustrativos do autor são mantidos (o livro é de autoajuda, não de comprovação científica); podem ganhar versão mais bonita |
 | Correção de dados | Liberada; cada correção é apresentada em lista para aprovação antes de entrar |
 | Capítulos que só tinham título | Claude redige a partir dos textos existentes; José valida |
 | Aviso ao leitor | Mantido como página própria |
@@ -32,7 +33,7 @@ Planejamento completo (Claude Docs): https://claude.ai/artifact/S2cyfJKmaDYVo3DN
 ### Títulos já avaliados
 
 - Rejeitados pelo José (fracos ou parecidos com "O Corpo Fala"): O Que o Corpo Não Cala; A Raiz Reprimida; Além do Sintoma.
-- Candidatos "radicais" ainda sem escolha: Culpados, Reprimidos e Medicados; Sua Doença Tem Dono; Remédio Nenhum Cura Culpa; Te Ensinaram a Adoecer; Doentes por Obediência; O Pecado de Sentir Prazer.
+- Escolhido em 14/11/2026: **Te Ensinaram a Adoecer**. Outros candidatos da mesma rodada: Culpados, Reprimidos e Medicados; Sua Doença Tem Dono; Remédio Nenhum Cura Culpa; Doentes por Obediência; O Pecado de Sentir Prazer.
 - Títulos antigos: "Superação e Equilíbrio Emocional Através das Terapias Alternativas" (capa) e "Um Novo Olhar Sobre as Terapias" (rascunhos).
 
 ## 2. Essência do livro
@@ -67,23 +68,24 @@ Quatro movimentos:
 
 **Parte III — A raiz reprimida: culpa, sexualidade e energia vital**
 9. A doutrina do pecado original: Agostinho e a concupiscência
-10. Controle e culpa na Idade Média
-11. Freud, Reich e a repressão inscrita no corpo
-12. Do confessionário à farmácia: a repressão no século XXI
-13. Chakras e culpa: a leitura energética
+10. Agostinho no divã: a origem pessoal da doutrina
+11. Controle e culpa na Idade Média
+12. Freud, Reich e a repressão inscrita no corpo
+13. Do confessionário à farmácia: a repressão no século XXI
+14. Chakras e culpa: a leitura energética
 
 **Parte IV — Os males da atualidade**
-- Emoções e vínculos: 14. Baixa autoestima e autossabotagem · 15. Relacionamentos: quando dois vazios se encontram
-- Mente: 16. Depressão · 17. Ansiedade · 18. Insônia · 19. Burnout · 20. Transtorno bipolar · 21. Fobia social · 22. Pensamento acelerado
-- Vícios: 23. O significado emocional dos vícios · 24. Dependência digital · 25. Pornografia
-- Sexualidade: 26. Impotência e problemas masculinos (NOVO) · 27. Falta de desejo e problemas femininos (NOVO)
-- Corpo: 28. Obesidade · 29. Diabetes · 30. Intolerâncias alimentares · 31. Intestino irritável (NOVO) · 32. Coração e estresse (NOVO) · 33. Fadiga crônica (NOVO)
-- Diagnósticos em ascensão: 34. TDAH, TOC, transtornos alimentares e borderline
+- Emoções e vínculos: 15. Baixa autoestima e autossabotagem · 16. Relacionamentos: quando dois vazios se encontram
+- Mente: 17. Depressão · 18. Ansiedade · 19. Insônia · 20. Burnout · 21. Transtorno bipolar · 22. Fobia social · 23. Pensamento acelerado
+- Vícios: 24. O significado emocional dos vícios · 25. Dependência digital · 26. Pornografia
+- Sexualidade: 27. Impotência e problemas masculinos (NOVO) · 28. Falta de desejo e problemas femininos (NOVO)
+- Corpo: 29. Obesidade · 30. Diabetes · 31. Intolerâncias alimentares · 32. Intestino irritável (NOVO) · 33. Coração e estresse (NOVO) · 34. Fadiga crônica (NOVO)
+- Diagnósticos em ascensão: 35. TDAH, TOC, transtornos alimentares e borderline
 
 Molde de cada capítulo da Parte IV: o que é; a raiz emocional; o que o corpo está dizendo; caminhos naturais; remissão à terapia da Parte V.
 
 **Parte V — As terapias**
-35. PNL (com relato anônimo) · 36. Astrologia · 37. Constelação familiar · 38. Ayahuasca (com relato anônimo) · 39. Massagem tântrica · 40. Hipnose · 41. Terapia de regressão
+36. PNL (com relato anônimo) · 37. Astrologia · 38. Constelação familiar · 39. Ayahuasca (com relato anônimo) · 40. Massagem tântrica · 41. Hipnose · 42. Terapia de regressão
 
 **Fechamento**
 - Conclusão, sobre o autor, contato, bibliografia
@@ -92,14 +94,14 @@ Molde de cada capítulo da Parte IV: o que é; a raiz emocional; o que o corpo e
 
 | Arquivo | Uso |
 | --- | --- |
-| construção ebook terapias alternativas.docx | **Base.** Apresentação, caps. 2 a 5, 7, 8, 14 a 17, 35 a 41, conclusão |
-| assuntos do livro de terapias a desenvolver.docx | Caps. 18 a 22, 24, 25, 34 |
-| A doutrina do pecado original… .docx | Parte III inteira (caps. 9 a 13) + bibliografia |
-| construção capitulo obesidade e diabetes.docx | Cap. 28 |
-| capitulo de Diabetes.docx | Cap. 29 |
-| SIGNIFICADO EMOCIONAL DOS VÍCIOS.pdf | Cap. 23 e base do cap. 6 |
-| Principais Intolerancias e seu Significado Emocional.pdf | Cap. 30 e base do cap. 6 |
-| ebook terapias alternativas versão do léo versão kindle.docx | Só o relato de PNL/ayahuasca (cap. 35) |
+| construção ebook terapias alternativas.docx | **Base.** Apresentação, caps. 2 a 5, 7, 8, 15 a 18, 36 a 42, conclusão |
+| assuntos do livro de terapias a desenvolver.docx | Caps. 19 a 23, 25, 26, 35 |
+| A doutrina do pecado original… .docx | Parte III inteira (caps. 9 a 14) + bibliografia |
+| construção capitulo obesidade e diabetes.docx | Cap. 29 |
+| capitulo de Diabetes.docx | Cap. 30 |
+| SIGNIFICADO EMOCIONAL DOS VÍCIOS.pdf | Cap. 24 e base do cap. 6 |
+| Principais Intolerancias e seu Significado Emocional.pdf | Cap. 31 e base do cap. 6 |
+| ebook terapias alternativas versão do léo versão kindle.docx | Só o relato de PNL/ayahuasca (cap. 36) |
 | Projeto Inacabado sobre a Relação entre Energia Sexual | Não entra |
 | Demais PDFs e versões antigas | Duplicatas, só para conferência |
 
@@ -107,9 +109,9 @@ Molde de cada capítulo da Parte IV: o que é; a raiz emocional; o que o corpo e
 
 Dependem do José:
 - [ ] Notas para o cap. 1 (jornada pessoal: fases, viradas, chegada à psicanálise e à linguagem do corpo)
-- [ ] Notas sobre a experiência pessoal com burnout (cap. 19)
-- [ ] Caso clínico de obesidade (cap. 28)
-- [ ] Escolha do título e da capa
+- [ ] Notas sobre a experiência pessoal com burnout (cap. 20)
+- [ ] Caso clínico de obesidade (cap. 29)
+- [ ] Subtítulo e capa
 
 Dados a corrigir (lista para aprovação antes de entrar):
 - [ ] "Diabetes tipo 1" no relato de cura (a descrição corresponde ao tipo 2)
@@ -125,7 +127,7 @@ Dados a corrigir (lista para aprovação antes de entrar):
 
 1. [x] Levantamento e planejamento
 2. [x] Decisões do autor
-3. [~] Parte III: dividida em 5 capítulos em `livro/parte-3-a-raiz-reprimida/` (texto original preservado). Aguardando aprovação das mudanças listadas em `REVISAO.md` da mesma pasta
+3. [~] Parte III: dividida em 6 capítulos (9 a 14) em `livro/parte-3-a-raiz-reprimida/` (texto original preservado). Aguardando aprovação das mudanças listadas em `REVISAO.md` da mesma pasta
 4. [ ] Parte I
 5. [ ] Parte II
 6. [ ] Parte V

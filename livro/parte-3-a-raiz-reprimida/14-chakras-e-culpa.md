@@ -1,6 +1,6 @@
 # Chakras e culpa: a leitura energética
 
-Para concluir vou trazer uma analise espiritual/energética trazendo o impacto nos chacras que são os vórtices de energia no corpo.
+Para concluir vou trazer uma análise espiritual/energética trazendo o impacto nos chacras que são os vórtices de energia no corpo.
 
 O que Freud chamou de libido e Reich de orgone, as tradições orientais chamam de prana ou shakti/kundalini: a energia fundamental da vida.
 
@@ -64,7 +64,7 @@ Quando a sociedade e a religião associam a sexualidade — uma das expressões 
 
 O problema mais grave é o efeito cascata. Os chacras inferiores são a fundação da casa e a usina de força para os chacras superiores. A energia Kundalini dorme na base da coluna e precisa subir para iluminar os centros superiores:
 
-  - **Coração (Anata):** Como amar incondicionalmente se você se sente culpado por existir e tem medo de sentir?
+  - **Coração (Anahata):** Como amar incondicionalmente se você se sente culpado por existir e tem medo de sentir?
 
   - **Garganta (Vishuddha):** Como expressar sua verdade se sua criatividade e emoções estão bloqueadas?
 
@@ -78,7 +78,7 @@ Aqui é crucial *diferenciar* dois tipos de abstinência sexual, bastante divulg
 
 1.  **Abstinência por Repressão (Baseada na Culpa):** Esta é a abstinência promovida pela moralidade do pecado. Não é uma escolha livre, mas uma **contenção forçada por medo e culpa**. Energeticamente, isso é desastroso. A energia não é transmutada, ela é **bloqueada e estagna**, apodrecendo no sistema e gerando as doenças físicas e mentais que discutimos. É uma negação da vida.
 
-2.  **Abstinência por Sublimação (Brahmacharya Yogue):** Esta é uma **escolha consciente** de um praticante espiritual avançado. O objetivo não é negar a energia sexual, mas reconhecer seu imenso poder e, em vez de liberá-la para o exterior, **redirecioná-la conscientemente para o interior e para cima**, usando-a para despertar os chacras superiores e atingir estados elevados de consciência. A energia flui livremente, mas em outra direção. É uma afirmação da vida em um plano diferente. A questão principal aqui é que as pessoas interpretam este tema superficialmente e deduzem que basta deixar de transar que estão transmutando essa energia, sem se dar conta que estão na verdade considerando o sexo como não puro assim como a doutrina do pecado original quer. Sublimar a energia sexual requer anos de trabalho energético e ainda assim não serão todas as pessoas que são propícias a esta pratica, a configuração energética do corpo vai influenciar. Se fosse simples a retenção da energia sexual não haveriam tantos escândalos entre os Padres.
+2.  **Abstinência por Sublimação (Brahmacharya Yogue):** Esta é uma **escolha consciente** de um praticante espiritual avançado. O objetivo não é negar a energia sexual, mas reconhecer seu imenso poder e, em vez de liberá-la para o exterior, **redirecioná-la conscientemente para o interior e para cima**, usando-a para despertar os chacras superiores e atingir estados elevados de consciência. A energia flui livremente, mas em outra direção. É uma afirmação da vida em um plano diferente. A questão principal aqui é que as pessoas interpretam este tema superficialmente e deduzem que basta deixar de transar que estão transmutando essa energia, sem se dar conta que estão na verdade considerando o sexo como não puro assim como a doutrina do pecado original quer. Sublimar a energia sexual requer anos de trabalho energético e ainda assim não serão todas as pessoas que são propícias a esta prática, a configuração energética do corpo vai influenciar. Se fosse simples a retenção da energia sexual não haveriam tantos escândalos entre os Padres.
 
 ## Conclusão da Análise Espiritual:
 
