@@ -127,7 +127,7 @@ Dados a corrigir (lista para aprovação antes de entrar):
 
 1. [x] Levantamento e planejamento
 2. [x] Decisões do autor
-3. [~] Parte III: dividida em 6 capítulos (9 a 14) em `livro/parte-3-a-raiz-reprimida/` (texto original preservado). Aguardando aprovação das mudanças listadas em `REVISAO.md` da mesma pasta
+3. [x] Parte III: 6 capítulos (9 a 14) em `livro/parte-3-a-raiz-reprimida/`, revisados. Restam só três conferências de bibliografia (ver `REVISAO.md`) e a leitura final do autor
 4. [ ] Parte I
 5. [ ] Parte II
 6. [ ] Parte V

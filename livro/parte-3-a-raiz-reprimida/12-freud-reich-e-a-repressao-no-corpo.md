@@ -22,19 +22,19 @@ Já Wilhelm Reich, aluno de Freud, levou essas ideias ao corpo físico.
 
 **Couraça Muscular do Caráter:** Reich argumentou que a repressão não é apenas um processo mental, mas **físico**. Para conter emoções e impulsos sexuais *proibidos desde a infância*, o indivíduo desenvolve tensões musculares crônicas em diferentes partes do corpo (mandíbula, pescoço, diafragma, pélvis, etc.). Essa "couraça" se torna uma prisão literal que impede o fluxo livre da energia vital, que ele chamou de **orgone**.
 
-  - **Livro A Função do Orgasmo:** Para Reich, a *saúde mental* e física dependia da "potência orgástica": a capacidade de se entregar totalmente à experiência sexual, descarregando a energia acumulada e dissolvendo temporariamente a couraça. A moralidade sexual repressiva, que gera culpa e medo, **torna isso impossível**. O sexo torna-se mecânico e insatisfatório, incapaz de aliviar a tensão, o que evolui inclusive para vícios e fortes e pesadas perversões sexuais.
+  - **Livro A Função do Orgasmo:** Para Reich, a *saúde mental* e física dependia da "potência orgástica": a capacidade de se entregar totalmente à experiência sexual, descarregando a energia acumulada e dissolvendo temporariamente a couraça. A moralidade sexual repressiva, que gera culpa e medo, **torna isso impossível**. O sexo torna-se mecânico e insatisfatório, incapaz de aliviar a tensão, o que evolui inclusive para vícios e para fortes e pesadas perversões sexuais.
 
-  - **A Peste Emocional:** Reich usou este termo para descrever o indivíduo "encouraçado" que, incapaz de sentir prazer genuíno, *passa a odiar e a reprimir a expressão de vitalidade e prazer nos outros*(aqui já trazendo à tona que era este o caso de Agostinho). É o ciclo vicioso: *a pessoa reprimida se torna um agente de repressão*, como vemos comumente em Padres por exemplo. A moralidade religiosa, em sua visão, era a maior promotora da "peste emocional" e causadora de uma porção de males mentais e físicos.
+  - **A Peste Emocional:** Reich usou este termo para descrever o indivíduo "encouraçado" que, incapaz de sentir prazer genuíno, *passa a odiar e a reprimir a expressão de vitalidade e prazer nos outros* (e era este o caso de Agostinho). É o ciclo vicioso: *a pessoa reprimida se torna um agente de repressão*, como vemos comumente em padres, por exemplo. A moralidade religiosa, em sua visão, era a maior promotora da "peste emocional" e causadora de uma porção de males mentais e físicos.
 
 ### 3. O Poder da Culpa: O Motor da Repressão
 
 A doutrina religiosa leva à neurose individual.
 
-  - **Fonte da Culpa:** Pais e **organizações religiosas**. Elas estabelecem o código moral que define o que é “certo ou errado”, mas não mais com base na natureza do corpo humano e das necessidades que este possui, mas sim em questões morais compradas e interpretadas superficialmente sem considerar a pessoa como um todo.
+  - **Fonte da Culpa:** Pais e **organizações religiosas**. Elas estabelecem o código moral que define o que é “certo ou errado”, mas não mais com base na natureza do corpo humano e das necessidades que este possui, mas sim em questões morais compradas prontas e interpretadas superficialmente, sem considerar a pessoa como um todo.
 
   - **Mecanismo de Controle:** A culpa é uma ferramenta de controle emocional por excelência. Ao fazer você se sentir culpado por seus pensamentos e desejos mais naturais (sexuais), a organização religiosa se posiciona como a única solução para esse mal-estar. Ela oferece o perdão (através da confissão, penitência, dízimo) em troca de controle e recursos (seu tempo, *seu dinheiro*, sua lealdade).
 
-  - **Punição e Conformidade:** A culpa é uma punição internalizada. A pessoa passa a se policiar, temendo não apenas a punição divina no além, mas o desconforto insuportável da culpa no aqui e agora. Isso *garante* a conformidade com as regras da organização *sem a necessidade de vigilância constante*, a própria pessoa se vigia, se tortura, se condena, e se pune.
+  - **Punição e Conformidade:** A culpa é uma punição internalizada. A pessoa passa a se policiar, temendo não apenas a punição divina no além, mas o desconforto insuportável da culpa no aqui e agora. Isso *garante* a conformidade com as regras da organização *sem a necessidade de vigilância constante*: a própria pessoa se vigia, se tortura, se condena, e se pune.
 
 Essa culpa crônica é o que alimenta o motor da repressão em Freud, e o que tensiona os músculos para formar a couraça em Reich.
 

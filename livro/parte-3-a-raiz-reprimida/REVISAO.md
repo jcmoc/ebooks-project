@@ -37,7 +37,7 @@ Os capítulos desta pasta trazem o texto do ensaio "A doutrina do pecado origina
 - [x] C5. (FEITO em 14/11) "pode mostra" → "pode mostrar"; "queixas quando a potencia" → "queixas quanto à potência"; "caracteristica", "analise", "pratica", "brasil" e outros acentos e maiúsculas.
 - [x] C6. (FEITO em 14/11) "ela própria autorizada e 'abençoava'" → "ela própria autorizava e 'abençoava'".
 - [x] C7. (FEITO em 14/11, 2ª rodada) Primeira frase do cap. 9 está truncada ("…a Igreja Cristã, especialmente a partir da Idade Média, onde moldou…"). Proponho: "A doutrina do pecado original teve papel central na forma como a Igreja cristã, sobretudo a partir da Idade Média, moldou as percepções e regulou as práticas sexuais, com efeitos que duram até hoje."
-- [ ] C8. (PENDENTE: próxima passada, capítulo por capítulo, com as mudanças visíveis no git) Revisão geral de vírgulas e concordância, sem mudar o sentido.
+- [x] C8. (FEITO em 14/11: 60 ajustes de pontuação, concordância e regência, visíveis no git) Revisão geral de vírgulas e concordância, sem mudar o sentido.
 
 ## D. Dados a conferir ou corrigir
 
@@ -68,6 +68,5 @@ As leituras de linguagem do corpo, psicossomática, astrologia e chakras ficam c
 
 ## Pendências que restaram
 
-- C8: revisão geral de vírgulas e concordância.
 - Bibliografia: confirmar o tradutor de "A Função do Orgasmo" (retirei o nome que não consegui confirmar), o tradutor de Peter Brown e se há edição em português do livro de Dodds (por ora citei a original em inglês).
 - A citação literal "acidente de tradução" atribuída a Almond e Chevitarese não foi usada entre aspas, porque não consegui conferir a frase exata na reportagem da BBC; o texto diz a ideia sem aspas.

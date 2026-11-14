@@ -2,9 +2,9 @@
 
 ## Mecanismos de Controle e Manipulação na Idade Média
 
-Com essa base teológica, a Igreja medieval desenvolveu uma série de mecanismos para regular a vida sexual dos fiéis, o que, segundo historiadores como o francês **Jacques Le Goff,** aumentou imensamente o poder da instituição sobre a sociedade.
+Com essa base teológica, a Igreja medieval desenvolveu uma série de mecanismos para regular a vida sexual dos fiéis, o que, segundo historiadores como o francês **Jacques Le Goff**, aumentou imensamente o poder da instituição sobre a sociedade.
 
-1.  **O Casamento como *Único* Remédio:** Se a carne era o mal, o casamento foi instituído como o "remédio" permitido. No entanto, seu propósito principal não era o amor romântico ou o prazer, mas a **procriação**. O sexo por prazer, mesmo entre casados, era frequentemente visto como um pecado venial (menor). A Igreja ditava as regras do matrimônio, quem podia casar com quem (proibindo uniões entre parentes até graus distantes), e só considerando válidos casamentos que ela própria autorizava e ‘abençoava’, e o tornava um *sacramento indissolúvel*, solidificando seu controle sobre a formação das famílias.
+1.  **O Casamento como *Único* Remédio:** Se a carne era o mal, o casamento foi instituído como o "remédio" permitido. No entanto, seu propósito principal não era o amor romântico ou o prazer, mas a **procriação**. O sexo por prazer, mesmo entre casados, era frequentemente visto como um pecado venial (menor). A Igreja ditava as regras do matrimônio, quem podia casar com quem (proibindo uniões entre parentes até graus distantes), só considerava válidos os casamentos que ela própria autorizava e ‘abençoava’ e fez do matrimônio um *sacramento indissolúvel*, solidificando seu controle sobre a formação das famílias.
 
 2.  **A Exaltação da Virgindade e do Celibato:** A virgindade e o celibato eram considerados estados de *perfeição espiritual*, superiores ao casamento. O clero, a partir do século XI (com a Reforma Gregoriana), foi obrigado a ser celibatário. Isso criava uma hierarquia clara: os clérigos, que renunciavam ao sexo, eram vistos como mais próximos de Deus e, portanto, mais qualificados para guiar os leigos, que eram "prisioneiros" de sua natureza sexual.
 
@@ -14,9 +14,9 @@ Com essa base teológica, a Igreja medieval desenvolveu uma série de mecanismos
 
 ## O Argumento de Jacques Le Goff
 
-O historiador Jacques Le Goff, um dos mais importantes medievalistas do século XX, argumentou que o controle sobre os corpos e a sexualidade foi uma **estratégia de poder fundamental para a Igreja**. Ao transformar o desejo sexual em uma fonte de culpa e ansiedade, a Igreja se posicionava como a *única instituição* capaz de oferecer o perdão e a salvação através dos seus sacramentos, como a confissão e a penitência, um monopólio absoluto sobre a fé e sobre os corpos das pessoas.
+O historiador Jacques Le Goff, um dos mais importantes medievalistas do século XX, argumentou que o controle sobre os corpos e a sexualidade foi uma **estratégia de poder fundamental para a Igreja**. Ao transformar o desejo sexual em uma fonte de culpa e ansiedade, a Igreja se posicionava como a *única instituição* capaz de oferecer o perdão e a salvação através dos seus sacramentos, como a confissão e a penitência: um monopólio absoluto sobre a fé e sobre os corpos das pessoas.
 
-Segundo Le Goff, o dogma do pecado original não era apenas uma questão teológica abstrata, mas uma ***ferramenta política*** que permitia à Igreja penetrar na esfera mais privada da vida das pessoas — *o quarto do casal* — **e a governar até suas consciências**. Esse "governo das almas" garantia a dependência dos fiéis e a autoridade *inquestionável* do clero.
+Segundo Le Goff, o dogma do pecado original não era apenas uma questão teológica abstrata, mas uma ***ferramenta política*** que permitia à Igreja penetrar na esfera mais privada da vida das pessoas — *o quarto do casal* — **e governar até suas consciências**. Esse "governo das almas" garantia a dependência dos fiéis e a autoridade *inquestionável* do clero.
 
 Em resumo, a manipulação sexual pode ser entendida como o processo histórico pelo qual a Igreja:
 
