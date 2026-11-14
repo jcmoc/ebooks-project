@@ -1,6 +1,8 @@
 # Projeto do livro — Terapias Alternativas
 
-Registro das decisões, da estrutura e do andamento. Atualizado em 13/11/2026.
+Registro das decisões, da estrutura e do andamento. Atualizado em 14/11/2026.
+
+Pasta e repositório: `D:\Projetos\Ebook Terapias Alternativas` (github.com/jcmoc/ebooks-project). O livro novo é escrito em `livro/`; os originais ficam na raiz.
 
 Planejamento completo (Claude Docs): https://claude.ai/artifact/S2cyfJKmaDYVo3DNHbYwj9
 
@@ -123,7 +125,7 @@ Dados a corrigir (lista para aprovação antes de entrar):
 
 1. [x] Levantamento e planejamento
 2. [x] Decisões do autor
-3. [ ] Parte III dividida em capítulos (próxima)
+3. [~] Parte III: dividida em 5 capítulos em `livro/parte-3-a-raiz-reprimida/` (texto original preservado). Aguardando aprovação das mudanças listadas em `REVISAO.md` da mesma pasta
 4. [ ] Parte I
 5. [ ] Parte II
 6. [ ] Parte V
