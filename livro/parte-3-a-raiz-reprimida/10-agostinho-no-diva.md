@@ -14,7 +14,7 @@ A primeira e mais fundamental fonte de conflito de Agostinho foi a oposição ra
 
 ***Análise Psicanalítica:** Agostinho internalizou dois modelos de autoridade completamente contraditórios. Sua psique se tornou o palco de uma guerra civil. Toda vez que ele cedia aos seus desejos sexuais (seguindo o modelo do pai), ele era inundado por uma **culpa avassaladora**, pois sentia que estava traindo e ferindo sua mãe, a quem ele amava profundamente. Ele não conseguia integrar prazer e amor; para ele, eram forças opostas que o dilaceravam. Essa mesma culpa, por exemplo em uma masturbação, ainda é vivida hoje pelos cristãos e pelos não cristãos como também explicarei mais a frente.*
 
-*Trago novamente o contexto de que o signo de escorpião (e os signos de elemento água) sentem as emoções com o dobro de peso que os demais signos, devido sua característica, então esse fardo especialmente para Agostinho era extremamente pesado.*
+*Cabe trazer aqui um acréscimo astrológico: Agostinho era do signo de Escorpião, signo que tem uma real obsessão pela sexualidade, pelo poder e pelos tabus, principalmente os sexuais, e que, além de muita libido, carrega inúmeras perversões sexuais (desejos sexuais incomuns). É também um signo de água, e os signos desse elemento sentem as emoções com o dobro de peso dos demais; por isso esse fardo, especialmente para Agostinho, era extremamente pesado.*
 
 ### 2. O Ponto de Ruptura: O Abandono da sua Amante
 
@@ -48,4 +48,4 @@ A teologia de Agostinho não é uma filosofia abstrata; é uma sublimação de s
 
 Sua conversão e a subsequente formulação de sua teologia do pecado podem ser vistas como a única maneira que sua mente, brilhante, encontrou para resolver esses conflitos insuportáveis. Ao declarar a guerra contra a carne, ele encontrou uma maneira de justificar suas ações passadas e dar um sentido grandioso e universal ao seu sofrimento pessoal.
 
-\- Na parte seguinte vamos falar dos desdobramentos dos conceitos de Agostinho e o quanto eles serviram e servem muito bem a igreja e a indústria farmacêutica até os tempos atuais. -
+Nos próximos capítulos vamos ver os desdobramentos dos conceitos de Agostinho e o quanto eles serviram, e ainda servem, à Igreja e à indústria farmacêutica.

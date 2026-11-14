@@ -1,6 +1,6 @@
 # Do confessionário à farmácia: a repressão no século XXI
 
-*Agora vou avançar para outros questionamentos sobre tudo o que tratamos até aqui:*
+*Tudo o que vimos até aqui levanta quatro perguntas:*
 
 1.  A Igreja tinha consciência do dano que causava e usou isso como estratégia?
 
@@ -42,7 +42,7 @@ A história de Wilhelm Reich é emblemática dessa transição.
 
   - **A Relação com a Indústria Farmacêutica:** A perseguição a Reich foi uma tempestade perfeita. Suas ideias eram uma ameaça em múltiplas frentes:
     
-    1.  **Ameaça Médica e Farmacêutica:** Ele propunha uma cura definitiva para neuroses baseada na liberação da energia corporal e sexual, **sem o uso de medicamentos**. Isso o colocava em rota de colisão direta com o modelo médico-farmacêutico na época emergente.
+    1.  **Ameaça Médica e Farmacêutica:** Ele sugeria uma cura definitiva para neuroses baseada na liberação da energia corporal e sexual, **sem o uso de medicamentos**. Isso o colocava em rota de colisão direta com o modelo médico-farmacêutico na época emergente.
     
     2.  **Ameaça Política e Social:** Nos EUA da Guerra Fria e do Macartismo, as ideias de Reich sobre liberação sexual e suas ligações passadas com o comunismo eram vistas como profundamente subversivas.
     
@@ -52,7 +52,7 @@ O sistema como um todo — médico, político e social — se uniu para silencia
 
 ### 4. A Repressão e a Explosão do Tadalafila/Viagra
 
-1.  **A Conexão Fisiológica:** A culpa sexual, a ansiedade de desempenho e o estresse crônico (gerados pela repressão) *são fatores cientificamente comprovados que levam à diminuição dos níveis de testosterona* e à disfunção erétil psicogênica. *A mente, ensinada por séculos que o sexo é perigoso e sujo, **sabota o corpo.***
+1.  **A Conexão Fisiológica:** A culpa sexual, a ansiedade de desempenho e o estresse crônico (gerados pela repressão) *são fatores que levam à diminuição dos níveis de testosterona* e à disfunção erétil psicogênica. *A mente, ensinada por séculos que o sexo é perigoso e sujo, **sabota o corpo.***
 
 2.  **A Solução Farmacêutica:** Entram em cena o Viagra (Sildenafila, 1998) e o Cialis (Tadalafila, 2003). Eles são uma solução puramente mecânica para um problema psicofísico complexo. Eles não resolvem a culpa, a ansiedade ou a baixa testosterona. Eles simplesmente forçam uma resposta fisiológica contornando o bloqueio psicológico.
 
@@ -96,11 +96,10 @@ Essas inscrições corporais são de uma riqueza simbólica imensa. Por exemplo 
 
 A linguagem psicossomática revela conflitos que a mente consciente muitas vezes nega. Certas tendências culturais, embora justificadas por razões estéticas ou higiênicas, podem carregar um profundo significado de *recuo* diante da sexualidade *adulta*.
 
-A prática generalizada da depilação íntima masculina, por exemplo, quando interpretada pela linguagem corporal ela nos traz o seguinte contexto: Os pelos pubianos são um marcador biológico da *maturidade sexual*, um elo com a nossa herança instintiva. Sua remoção sistemática pode representar uma tentativa inconsciente de retornar a um estado pré-púbere, **percebido, portanto, como "puro"** conforme a cultura do pecado original, pois apenas crianças seriam puras, e, neste caso, livres do conflito e da culpa associados à vida sexual. Da mesma forma, mudanças em posturas *arquetipicamente masculinas* podem sinalizar um recuo da energia assertiva. Embora a ciência convencional não trace uma causalidade bioquímica direta, o princípio psicossomático sustenta que a mente e o corpo estão interligados. Uma psique que emite sinais contínuos de *recusa da maturidade sexual* e de *contenção da energia vital* pode, a longo prazo, influenciar o sistema endócrino a espelhar esse estado de conflito. Dentre as consequências temos o aumento de diversas doenças e problemas de saúde na população, o que inclui o câncer, que na psicossomática seria causado por energia estagnada (e que, portanto, assim como uma água parada, apodrece).
+A prática generalizada da depilação íntima masculina, por exemplo, quando interpretada pela linguagem corporal ela nos traz o seguinte contexto: Os pelos pubianos são um marcador biológico da *maturidade sexual*, um elo com a nossa herança instintiva. Sua remoção sistemática pode representar uma tentativa inconsciente de retornar a um estado pré-púbere, **percebido, portanto, como "puro"** conforme a cultura do pecado original, pois apenas crianças seriam puras, e, neste caso, livres do conflito e da culpa associados à vida sexual. Da mesma forma, mudanças em posturas *arquetipicamente masculinas* podem sinalizar uma tentativa de recuo da energia. Embora a ciência convencional não trace uma causalidade bioquímica direta, o princípio psicossomático sustenta que a mente e o corpo estão interligados. Uma psique que emite sinais contínuos de *recusa da maturidade sexual* e de *contenção da energia vital* pode, a longo prazo, influenciar o sistema endócrino a espelhar esse estado de conflito. Dentre as consequências que a psicanalise mais trabalha estão as questões mentais como crises de ansiedade, depressão, e transtornos de diversos tipos. Vindo para a psicossomática voltamos as disfunções erétil e ao consumo de estimulantes sexuais visto que em um momento é desejado uma virilidade sexual que em outro momento foi considerada impura, suja, maldosa um paradoxo mental que cobra um alto preço.
 
 A este cenário se soma um fator psicodinâmico crucial *na cultura brasileira*: **a figura da mãe superprotetora**. Em um ambiente que frequentemente idealiza o amor materno como sacrificial e incondicional, muitas mães, de forma inconsciente, podem dificultar o processo de separação psicológica de seus filhos. Ao mantê-los em um estado de dependência afetiva e funcional, elas os infantilizam, protegendo-os dos "perigos" do mundo adulto, incluindo a sexualidade. O homem permanece um *"puer aeternus"* (eterno menino), que teme "trair" ou abandonar a figura materna para se aventurar na intimidade com outra mulher, o que gera um profundo conflito de lealdade que pode paralisar a libido. Vejam que este conflito também aconteceu com Agostinho.
 
-Dentro da teoria psicanalítica, o aumento de certas manifestações da *homossexualidade* pode ser interpretado não como uma simples questão de orientação, mas como uma das possíveis resoluções mentais para este impasse: uma rota de fuga do confronto com o feminino (que representaria ir para o mundo adulto, e a potencial desaprovação materna).
 
 ### 3. A Nova Ascese: A Guerra Digital Contra a Masturbação
 

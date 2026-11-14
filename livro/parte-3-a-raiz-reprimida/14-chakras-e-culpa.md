@@ -1,6 +1,6 @@
 # Chakras e culpa: a leitura energética
 
-Para concluir vou trazer uma análise espiritual/energética trazendo o impacto nos chacras que são os vórtices de energia no corpo.
+Para concluir esta parte do livro, trago uma análise espiritual e energética: o impacto de tudo isso nos chacras, que são os vórtices de energia do corpo.
 
 O que Freud chamou de libido e Reich de orgone, as tradições orientais chamam de prana ou shakti/kundalini: a energia fundamental da vida.
 

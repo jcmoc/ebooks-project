@@ -43,4 +43,4 @@ O processo pelo qual a Igreja condenou os atos homossexuais pode ser visto da se
 
 A repressão sexual, sistematicamente implementada por instituições como a Igreja por mais de um milênio, não é apenas uma ideia abstrata. *Ela se inscreve no corpo e na psique*, gerando sofrimento.
 
-Agora vamos explorar esse tema usando as lentes de Freud, Reich, e a sua análise sobre a culpa sexual.
+No próximo capítulo vamos explorar esse tema pelas lentes de Freud e de Reich, e pela análise que os dois fazem da culpa sexual.
