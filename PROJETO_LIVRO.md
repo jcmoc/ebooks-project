@@ -108,7 +108,7 @@ Molde de cada capítulo da Parte IV: o que é; a raiz emocional; o que o corpo e
 ## 5. Pendências
 
 Dependem do José:
-- [ ] Notas para o cap. 1 (jornada pessoal: fases, viradas, chegada à psicanálise e à linguagem do corpo)
+- [x] Notas para o cap. 1 (recebidas em 14/11)
 - [ ] Notas sobre a experiência pessoal com burnout (cap. 20)
 - [ ] Caso clínico de obesidade (cap. 29)
 - [ ] Subtítulo e capa
@@ -128,7 +128,7 @@ Dados a corrigir (lista para aprovação antes de entrar):
 1. [x] Levantamento e planejamento
 2. [x] Decisões do autor
 3. [x] Parte III: 6 capítulos (9 a 14) em `livro/parte-3-a-raiz-reprimida/`, revisados. Restam só três conferências de bibliografia (ver `REVISAO.md`) e a leitura final do autor
-4. [ ] Parte I
+4. [~] Parte I: cap. 1 redigido a partir do relato do autor (aguardando leitura); caps. 2 a 4 a montar
 5. [ ] Parte II
 6. [ ] Parte V
 7. [ ] Parte IV (maior volume, inclui os capítulos novos)
