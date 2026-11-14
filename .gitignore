@@ -1,19 +1,20 @@
-"# Documentos/eBooks Project" 
-"" 
-"# Arquivos tempor†rios/backups" 
-"*.tmp" 
-"*.temp" 
-"*.bak" 
-"*.backup" 
-"*~" 
-"" 
-"# Sistema/IDE" 
-".DS_Store" 
-"Thumbs.db" 
-"desktop.ini" 
-".vs/" 
-".vscode/" 
-"" 
-"# Cache/Thumbnails" 
-"thumbs/" 
-".thumbnails/" 
+# Projeto do livro - Terapias Alternativas
+
+# Arquivos tempor√°rios/backups
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+~$*
+
+# Sistema/IDE
+.DS_Store
+Thumbs.db
+desktop.ini
+.vs/
+.vscode/
+
+# Cache/Thumbnails
+thumbs/
+.thumbnails/
